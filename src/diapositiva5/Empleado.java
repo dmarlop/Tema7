@@ -22,9 +22,9 @@ public class Empleado extends Persona {
 	}
 	
 	
-	@Override
-	public boolean equals(Object obj) {
-		Empleado 
-	}
+//	@Override
+//	public boolean equals(Object obj) {
+//		Empleado 
+//	}
 
 }
