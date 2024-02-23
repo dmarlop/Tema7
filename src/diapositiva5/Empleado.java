@@ -1,5 +1,7 @@
 package diapositiva5;
 
+import java.util.Date;
+
 public class Empleado extends Persona {
 	private double salario;
 
